@@ -1,5 +1,12 @@
 <div align="center">
 
+  <!-- DYNAMIC ANIMATED TYPING HEADER -->
+  <a href="https://github.com/yaas-3r">
+    <img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=800&size=28&pause=1000&color=FF6B00&center=true&vcenter=true&width=800&height=50&lines=YAASIR+MOHAMMAD;SOFTWARE+ENGINEER+%7C+CINEMATOGRAPHER;BUILDING+RIDERA+%7C+EXPLORING+SYSTEMS+%26+MOTION" alt="Typing Header" />
+  </a>
+
+  <br><br>
+
   <!-- ANIMATED OBSIDIAN MOTION HERO -->
   <a href="https://github.com/yaas-3r">
     <img src="assets/hero-orbit.svg" alt="Obsidian Motion — Yaasir Mohammad" width="100%">
@@ -10,9 +17,10 @@
   <!-- NAVIGATION ROW -->
   <p align="center">
     <a href="#01--engineering--systems"><b>[ 01. ENGINEERING ]</b></a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-    <a href="#02--frame--film--cinematography"><b>[ 02. CINEMATOGRAPHY ]</b></a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-    <a href="#03--about"><b>[ 03. ABOUT ]</b></a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-    <a href="#04--connect"><b>[ 04. CONNECT ]</b></a>
+    <a href="#02--github-metrics--infographics"><b>[ 02. METRICS & TROPHIES ]</b></a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+    <a href="#03--frame--film--cinematography"><b>[ 03. CINEMATOGRAPHY ]</b></a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+    <a href="#04--about"><b>[ 04. ABOUT ]</b></a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+    <a href="#05--connect"><b>[ 05. CONNECT ]</b></a>
   </p>
 
 </div>
@@ -20,9 +28,9 @@
 <br><hr><br>
 
 <a id="01--engineering--systems"></a>
-## 01 / ENGINEERING &amp; SYSTEMS
+## 01 / ENGINEERING & SYSTEMS
 
-> Building scalable digital platforms, backend infrastructure, mobile systems, and practical AI integrations.
+> Scalable digital platforms, backend infrastructure, mobile systems, and practical AI integrations.
 
 <br>
 
@@ -38,7 +46,9 @@
       <p><strong>Motorcycle Social &amp; Ride-Discovery Platform</strong></p>
       <p>A specialized platform for connecting rider communities, discovering routes, sharing journeys, and facilitating group ride navigation in real time.</p>
       <br>
-      <p><code>TypeScript</code> &bull; <code>React Native</code> &bull; <code>Node.js</code> &bull; <code>PostgreSQL</code></p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=ts,react,nodejs,postgres,python,docker,git,linux&theme=dark" alt="Skill Stack" />
+      </p>
       <br>
       <p><a href="https://github.com/yaas-3r/ridera"><b>Explore Repository &rarr;</b></a></p>
     </td>
@@ -47,8 +57,44 @@
 
 <br><hr><br>
 
-<a id="02--frame--film--cinematography"></a>
-## 02 / FRAME &amp; FILM &mdash; CINEMATOGRAPHY
+<a id="02--github-metrics--infographics"></a>
+## 02 / METRICS & DYNAMIC INFOGRAPHICS
+
+> Real-time performance analytics, repository velocity, and language distribution powered by GitHub profile APIs.
+
+<br>
+
+<!-- DYNAMIC ACHIEVEMENTS & TROPHIES -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yaas-3r&theme=onedark&column=6&margin-w=8" alt="GitHub Trophies" width="100%" />
+</div>
+
+<br><br>
+
+<!-- STATS CARDS GRID -->
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=yaas-3r&show_icons=true&theme=dark&bg_color=08090A&title_color=FF6B00&text_color=F1F3F4&icon_color=FF6B00&border_color=FF6B00&hide_border=false" alt="Yaasir's GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://streak-stats.demolab.com/?user=yaas-3r&theme=dark&background=08090A&border=FF6B00&stroke=FF6B00&ring=FF6B00&fire=FF6B00&currStreakNum=F1F3F4&sideNums=F1F3F4&sideTitles=92999F" alt="Contribution Streak" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaas-3r&layout=compact&theme=dark&bg_color=08090A&title_color=FF6B00&text_color=F1F3F4&border_color=FF6B00&hide_border=false" alt="Most Used Languages" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=yaas-3r&theme=react-dark&bg_color=08090A&color=FF6B00&line=FF6B00&point=F1F3F4&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br><hr><br>
+
+<a id="03--frame--film--cinematography"></a>
+## 03 / FRAME &amp; FILM &mdash; CINEMATOGRAPHY
 
 > Visual motion, filmic composition, anamorphic lighting, color grading, and editorial video storytelling.
 
@@ -90,16 +136,16 @@
 
 <br><hr><br>
 
-<a id="03--about"></a>
-## 03 / ABOUT
+<a id="04--about"></a>
+## 04 / ABOUT
 
 <p>I am <strong>Yaasir Mohammad</strong>, a software engineer and cinematographer based in Kenya.</p>
 <p>My work combines software engineering—backend infrastructure, mobile development, and applied AI—with visual cinema, camera work, and editorial storytelling.</p>
 
 <br><hr><br>
 
-<a id="04--connect"></a>
-## 04 / CONNECT
+<a id="05--connect"></a>
+## 05 / CONNECT
 
 <br>
 
