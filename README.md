@@ -14,7 +14,7 @@
 
 </div>
 
-<!-- ROUNDED PILL TELEMETRY BADGES (CHARCOAL + AMBER TINT) -->
+<!-- ROUNDED PILL TELEMETRY BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/LOC-Nairobi%2C%20KE-1F1A17?style=for-the-badge&labelColor=111315&color=1F1A17&logoColor=FF6B00" alt="Location"/>
   &nbsp;&nbsp;
@@ -26,7 +26,7 @@
 <br>
 
 <!-- ========================================== -->
-<!-- SECTION 2: CORE SYSTEMS & PROJECTS        -->
+<!-- SECTION 2: CORE SYSTEMS & PROJECTS (CYBER)-->
 <!-- ========================================== -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B00,100:111315&height=3&section=header" width="100%" alt=""/>
@@ -37,38 +37,68 @@
 
 <br>
 
-<table width="100%">
+<!-- PROJECT 01: RIDERA PLATFORM -->
+<div align="center">
+<table width="100%" style="border-collapse: collapse; background: #0B0C0E;">
   <tr>
-    <td width="100%" valign="top">
-      <h3>⚡ RIDERA PLATFORM</h3>
-      <p><strong>Motorcycle Social & Ride-Discovery Platform</strong></p>
-      <p>A specialized digital system connecting rider communities, enabling route discovery, journey sharing, and real-time group ride navigation.</p>
-      <p><code>STATUS: ACTIVE DEVELOPMENT</code> &bull; <code>PRIMARY SYSTEM</code></p>
-      <br/>
-      <p>
-        <img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,postgres,docker&theme=dark" height="28" alt="Ridera Tech Stack"/>
+    <td style="padding: 24px; border: 1px dashed #2A2D32; border-left: 3px solid #FF6B00; border-radius: 4px;">
+      <p align="right" style="margin: 0;"><code>[ PRJ // 001 ]</code></p>
+      <h2 style="margin: 0 0 8px 0; color: #F1F3F4;">⚡ RIDERA PLATFORM</h2>
+      <p style="color: #FF6B00; font-family: monospace; font-weight: 600; margin-bottom: 16px;">MOTORCYCLE SOCIAL & RIDE-DISCOVERY INFRASTRUCTURE</p>
+      <p style="color: #A0A5AA; line-height: 1.6; margin-bottom: 20px;">
+        A specialized digital system engineered for motorcycle communities. Enables high-precision route discovery, telemetry tracking, journey logs, and real-time synchronized group navigation.
       </p>
-      <p><a href="https://github.com/yaas-3r/ridera"><b>Explore Repository &rarr;</b></a></p>
+      <hr style="border: none; border-top: 1px stroke #1F2226; margin: 16px 0;" />
+      <p style="margin-bottom: 12px;">
+        <code style="color: #D1D5DB;">STACK:</code>
+        &nbsp;
+        <code style="color: #FF6B00;">[ TS ]</code>
+        <code style="color: #FF6B00;">[ REACT NATIVE ]</code>
+        <code style="color: #FF6B00;">[ NODE.JS ]</code>
+        <code style="color: #FF6B00;">[ EXPRESS ]</code>
+        <code style="color: #FF6B00;">[ POSTGRESQL ]</code>
+        <code style="color: #FF6B00;">[ DOCKER ]</code>
+      </p>
+      <p style="margin: 0;">
+        <code>STATUS: ACTIVE DEVELOPMENT</code> &bull; <code>PRIMARY SYSTEM</code>
+        &nbsp;&bull;&nbsp;
+        <a href="https://github.com/yaas-3r/ridera" style="color: #FF6B00; text-decoration: none;"><b>DEPLOYMENT LOGS &rarr;</b></a>
+      </p>
     </td>
   </tr>
 </table>
+</div>
 
 <br>
 
-<table width="100%">
+<!-- PROJECT 02: APPLIED AI PIPELINES -->
+<div align="center">
+<table width="100%" style="border-collapse: collapse; background: #0B0C0E;">
   <tr>
-    <td width="100%" valign="top">
-      <h3>🧠 APPLIED AI PIPELINES</h3>
-      <p><strong>Backend Intelligence & Orchestration</strong></p>
-      <p>Experimental backend architecture exploring micro-model orchestration, vector caching, and LLM API integration into production software flows.</p>
-      <p><code>STATUS: SYSTEM EXPLORATION</code></p>
-      <br/>
-      <p>
-        <img src="https://skillicons.dev/icons?i=py,fastapi,docker,redis,git&theme=dark" height="28" alt="AI Pipeline Tech Stack"/>
+    <td style="padding: 24px; border: 1px dashed #2A2D32; border-left: 3px solid #3A3F47; border-radius: 4px;">
+      <p align="right" style="margin: 0;"><code>[ PRJ // 002 ]</code></p>
+      <h2 style="margin: 0 0 8px 0; color: #F1F3F4;">🧠 APPLIED AI PIPELINES</h2>
+      <p style="color: #8A9099; font-family: monospace; font-weight: 600; margin-bottom: 16px;">BACKEND INTELLIGENCE & MODEL ORCHESTRATION</p>
+      <p style="color: #A0A5AA; line-height: 1.6; margin-bottom: 20px;">
+        Experimental micro-architecture designed for orchestrating local/edge models, managing vector caches, and integrating context-aware LLM pipelines into production backend services.
+      </p>
+      <hr style="border: none; border-top: 1px stroke #1F2226; margin: 16px 0;" />
+      <p style="margin-bottom: 12px;">
+        <code style="color: #D1D5DB;">STACK:</code>
+        &nbsp;
+        <code style="color: #8A9099;">[ PYTHON ]</code>
+        <code style="color: #8A9099;">[ FASTAPI ]</code>
+        <code style="color: #8A9099;">[ DOCKER ]</code>
+        <code style="color: #8A9099;">[ REDIS ]</code>
+        <code style="color: #8A9099;">[ VECTOR DB ]</code>
+      </p>
+      <p style="margin: 0;">
+        <code>STATUS: SYSTEM EXPLORATION</code> &bull; <code>R&amp;D MODULE</code>
       </p>
     </td>
   </tr>
 </table>
+</div>
 
 <br>
 
