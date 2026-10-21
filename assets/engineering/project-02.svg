@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="100%">
-  <rect width="800" height="450" fill="#08090A" rx="8"/>
-  <rect x="2" y="2" width="796" height="446" fill="none" stroke="#92999F" stroke-width="1" opacity="0.2" rx="7"/>
-  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" fill="#F1F3F4" font-family="system-ui, sans-serif" font-size="22" font-weight="600" letter-spacing="3">APPLIED AI PIPELINE</text>
-  <text x="50%" y="58%" dominant-baseline="middle" text-anchor="middle" fill="#92999F" font-family="system-ui, sans-serif" font-size="13" letter-spacing="1">SYSTEM EXPLORATION</text>
-</svg>
