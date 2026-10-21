@@ -38,13 +38,13 @@
 <br>
 
 ### RIDERA PLATFORM
-`[ PRJ // 001 ]` &bull; **MOTORCYCLE SOCIAL & RIDE-DISCOVERY NETWORK**
+`[ PRJ // 001 ]` &bull; **MOTORCYCLE TELEMETRY & SOCIAL INFRASTRUCTURE**
 
 <p align="center">
   <img src="assets/ridera-preview.png" alt="Ridera System Preview" width="100%" height="240" style="object-fit: cover; border-radius: 6px; border: 1px solid #1F2226; display: block;" />
 </p>
 
-A high-performance digital ecosystem designed for motorcycle enthusiasts and riding communities. Ridera bridges live telemetry with social networking—enabling dynamic route mapping, real-time group ride synchronization, journey logging, and community discovery through an intuitive mobile interface.
+Ridera is a full-stack motorcycle telemetry and social infrastructure platform built to bridge real-time rider metrics with community ride-discovery. Engineered with high-concurrency backend services, the platform powers live GPS trip tracking, group route synchronization, dynamic waypoint discovery, and community engagement through a responsive mobile architecture.
 
 <br>
 
