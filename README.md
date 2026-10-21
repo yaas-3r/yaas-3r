@@ -1,4 +1,5 @@
-<!-- SECTION 1: HERO TERMINAL HEADER -->
+<!-- SECTION 1: HERO HEADER & LIVE ANIMATIONS -->
+
 <div align="center">
 
 ```bash
