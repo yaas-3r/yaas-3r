@@ -14,14 +14,12 @@
 
 </div>
 
-<!-- MINIMALIST TELEMETRY HUD (DARK CHARCOAL & AMBER ACCENT) -->
-<div align="center">
-  <img src="https://img.shields.io/badge/LOC-NAIROBI%2C%20KENYA-111315?style=flat-square&labelColor=08090A&color=FF6B00" alt="Location"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/FOCUS-BACKEND%20%2B%20MOBILE%20%2B%20AI-111315?style=flat-square&labelColor=08090A&color=FF6B00" alt="Focus"/>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/BUILDING-RIDERA%20PLATFORM-111315?style=flat-square&labelColor=08090A&color=FF6B00" alt="Building"/>
-</div>
+<!-- CLEAN MINIMALIST TEXT PILLS -->
+<p align="center">
+  <code>LOC: NAIROBI, KENYA</code> &nbsp;&bull;&nbsp; 
+  <code>FOCUS: BACKEND &bull; MOBILE &bull; AI</code> &nbsp;&bull;&nbsp; 
+  <code>BUILDING: RIDERA PLATFORM</code>
+</p>
 
 <br>
 
