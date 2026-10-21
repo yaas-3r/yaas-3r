@@ -9,7 +9,7 @@
 <div align="center">
 
 <a href="https://github.com/yaas-3r">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=FF6B00&center=true&vCenter=true&width=750&height=50&lines=SOFTWARE+ENGINEER+%7C+CINEMATOGRAPHER;BUILDING+RIDERA+%E2%80%A2+MOTORCYCLE+SOCIAL+NETWORK;EXPLORING+BACKEND+SYSTEMS+%26+APPLIED+AI;BETTER+SYSTEMS.+BIGGER+ADVENTURES." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=FF6B00&center=true&vCenter=true&width=750&height=50&lines=SOFTWARE+ENGINEER+%7C+CINEMATOGRAPHER;BUILDING+RIDERA+%2B+CINEVERSE;EXPLORING+BACKEND+SYSTEMS+%26+APPLIED+AI;BETTER+SYSTEMS.+BIGGER+ADVENTURES." alt="Typing SVG" />
 </a>
 
 </div>
@@ -18,9 +18,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/LOC-Nairobi%2C%20KE-1F1A17?style=for-the-badge&labelColor=111315&color=1F1A17&logoColor=FF6B00" alt="Location"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SYS-Backend%20%7C%20Mobile%20%7C%20AI-1F1A17?style=for-the-badge&labelColor=111315&color=1F1A17&logoColor=FF6B00" alt="Systems"/>
+  <img src="https://img.shields.io/badge/SYS-Backend%20%7C%20Mobile%20%7C%20AI%20%7C%20Video-1F1A17?style=for-the-badge&labelColor=111315&color=1F1A17&logoColor=FF6B00" alt="Systems"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/DEV-Ridera%20Platform-1F1A17?style=for-the-badge&labelColor=111315&color=1F1A17&logoColor=FF6B00" alt="Building"/>
+  <img src="https://img.shields.io/badge/DEV-Ridera%20%2B%20CineVerse-1F1A17?style=for-the-badge&labelColor=111315&color=1F1A17&logoColor=FF6B00" alt="Building"/>
 </p>
 
 <br>
@@ -65,11 +65,39 @@
 
 <br>
 
-<!-- PROJECT 02: APPLIED AI PIPELINES -->
+<!-- PROJECT 02: CINEVERSE PLATFORM (SIDE-BY-SIDE CARD) -->
+<table width="100%">
+  <tr>
+    <td width="35%" valign="middle" align="center" style="padding: 0;">
+      <a href="https://github.com/yaas-3r/cineverse">
+        <img src="assets/cineverse-preview.png" alt="CineVerse System Preview" width="100%" />
+      </a>
+    </td>
+    <td width="65%" valign="top" style="padding-left: 16px;">
+      <p align="right"><code>[ PRJ // 002 ]</code></p>
+      <h3 style="margin-top: 0;">CINEVERSE</h3>
+      <p><b>CINEMATIC SOCIAL PLATFORM &amp; CREATIVE MARKETPLACE</b></p>
+      <p>
+        CineVerse is an ecosystem built for filmmakers, cinematographers, and visual storytellers. Combining a high-bitrate video discovery feed, interactive Shot Atlas mapping, Film DNA production metadata breakdowns, and a peer-to-peer creative marketplace for crew hiring, briefs, and travel documentaries.
+      </p>
+      <br>
+      <p>
+        <img src="https://skillicons.dev/icons?i=ts,react,py,fastapi,postgres,docker&theme=dark" height="28" alt="CineVerse Tech Stack"/>
+      </p>
+      <p>
+        <code>STATUS: ACTIVE DEVELOPMENT</code> &bull; <a href="https://github.com/yaas-3r/cineverse"><b>EXPLORE SYSTEM &rarr;</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- PROJECT 03: APPLIED AI PIPELINES -->
 <table width="100%">
   <tr>
     <td width="100%" valign="top">
-      <p align="right"><code>[ PRJ // 002 ]</code></p>
+      <p align="right"><code>[ PRJ // 003 ]</code></p>
       <h3 style="margin-top: 0;">APPLIED AI PIPELINES</h3>
       <p><b>BACKEND INTELLIGENCE &amp; MODEL ORCHESTRATION</b></p>
       <p>
