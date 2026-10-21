@@ -1,5 +1,5 @@
 <!-- ========================================== -->
-<!-- SECTION 1: ANIMATED HERO & HUD INFOGRAPHIC -->
+<!-- SECTION 1: ANIMATED HERO & MINIMAL HUD     -->
 <!-- ========================================== -->
 
 <p align="center">
@@ -14,13 +14,13 @@
 
 </div>
 
-<!-- INFOGRAPHIC TELEMETRY HUD -->
+<!-- MINIMALIST TELEMETRY HUD (DARK CHARCOAL & AMBER ACCENT) -->
 <div align="center">
-  <img src="https://img.shields.io/badge/LOCATION-NAIROBI%2C%20KENYA-FF6B00?style=for-the-badge&labelColor=111315&logoColor=F1F3F4" alt="Location"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/FOCUS-BACKEND%20%2B%20MOBILE%20%2B%20AI-FF6B00?style=for-the-badge&labelColor=111315&logoColor=F1F3F4" alt="Focus"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/BUILDING-RIDERA%20PLATFORM-FF6B00?style=for-the-badge&labelColor=111315&logoColor=F1F3F4" alt="Building"/>
+  <img src="https://img.shields.io/badge/LOC-NAIROBI%2C%20KENYA-111315?style=flat-square&labelColor=08090A&color=FF6B00" alt="Location"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/FOCUS-BACKEND%20%2B%20MOBILE%20%2B%20AI-111315?style=flat-square&labelColor=08090A&color=FF6B00" alt="Focus"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/BUILDING-RIDERA%20PLATFORM-111315?style=flat-square&labelColor=08090A&color=FF6B00" alt="Building"/>
 </div>
 
 <br>
@@ -73,7 +73,7 @@
 <br>
 
 <!-- ========================================== -->
-<!-- SECTION 3: METRICS & NUMBERS (AT THE BOTTOM) -->
+<!-- SECTION 3: METRICS (AT THE BOTTOM)         -->
 <!-- ========================================== -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111315,100:FF6B00&height=3&section=header" width="100%" alt=""/>
