@@ -1,31 +1,30 @@
 <div align="center">
 
-  <!-- HERO ARTWORK -->
+  <!-- HERO ANAMORPHIC ARTWORK -->
   <a href="https://github.com/yaas-3r">
-    <img src="assets/hero-orbit.svg" alt="Obsidian Orbit" width="100%">
+    <img src="assets/hero-orbit.svg" alt="Yaasir Mohammad — Frame / Function" width="100%">
   </a>
 
   <br><br>
 
-  <h1>YAASIR MOHAMMAD</h1>
-  <p><strong>SOFTWARE ENGINEER &nbsp;|&nbsp; BUILDER &nbsp;|&nbsp; CINEMATOGRAPHER</strong></p>
-  <p><em>Kenya &nbsp;&bull;&nbsp; Building Ridera &nbsp;&bull;&nbsp; Exploring Backend Systems, AI & Motion</em></p>
-
-  <br>
+  <!-- DESIGNED NAVIGATION BAR -->
+  <img src="assets/nav-bar.svg" alt="Navigation" width="100%" usemap="#navmap">
 
   <p>
     <a href="#01--engineering--function"><b>[ 01. ENGINEERING ]</b></a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-    <a href="#02--moving-images--cinematography"><b>[ 02. CINEMATOGRAPHY ]</b></a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-    <a href="#03--connect"><b>[ 03. CONNECT ]</b></a>
+    <a href="#02--frame--film--cinematography"><b>[ 02. CINEMATOGRAPHY ]</b></a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+    <a href="#03--about"><b>[ 03. ABOUT ]</b></a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+    <a href="#04--connect"><b>[ 04. CONNECT ]</b></a>
   </p>
 
 </div>
 
-<hr>
+<br><hr><br>
 
+<a id="01--engineering--function"></a>
 ## 01 / ENGINEERING & FUNCTION
 
-> Building practical digital products, exploring scalable backend infrastructure, and integrating applied AI into real-world software.
+> Developing software systems, backend infrastructure, mobile applications, and exploring practical AI integrations.
 
 <br>
 
@@ -33,92 +32,76 @@
   <tr>
     <td width="42%" valign="top">
       <a href="https://github.com/yaas-3r/ridera">
-        <img src="assets/engineering/ridera-preview.svg" alt="Ridera Platform" width="100%">
+        <img src="assets/engineering/ridera-preview.svg" alt="Ridera Project Concept" width="100%">
       </a>
     </td>
     <td width="58%" valign="top">
       <h3>01. RIDERA</h3>
-      <p><strong>Motorcycle Social & Ride-Discovery Platform</strong></p>
-      <p>A specialized platform for connecting rider communities, discovering curated routes, sharing journeys, and facilitating group ride navigation.</p>
+      <p><strong>Motorcycle Social &amp; Ride-Discovery Platform</strong></p>
+      <p>A specialized digital platform connecting rider communities, enabling route discovery, journey sharing, and real-time group navigation.</p>
+      <p><em>Note: Visual preview above is conceptual architecture artwork.</em></p>
+      <br>
       <p><code>TypeScript</code> &bull; <code>React Native</code> &bull; <code>Node.js</code> &bull; <code>PostgreSQL</code></p>
       <p><a href="https://github.com/yaas-3r/ridera"><b>Explore Repository &rarr;</b></a></p>
     </td>
   </tr>
 </table>
 
-<br>
+<br><hr><br>
 
-<table>
-  <tr>
-    <td width="42%" valign="top">
-      <a href="https://github.com/yaas-3r">
-        <img src="assets/engineering/project-02.svg" alt="Applied AI Pipelines" width="100%">
-      </a>
-    </td>
-    <td width="58%" valign="top">
-      <h3>02. APPLIED AI PIPELINES</h3>
-      <p><strong>Practical Intelligence Integration</strong></p>
-      <p>Exploratory architecture for integrating micro-models and LLM APIs into backend service pipelines with continuous evaluation.</p>
-      <p><code>Python</code> &bull; <code>FastAPI</code> &bull; <code>Docker</code> &bull; <code>Redis</code></p>
-      <p><a href="https://github.com/yaas-3r"><b>Explore Repository &rarr;</b></a></p>
-    </td>
-  </tr>
-</table>
+<a id="02--frame--film--cinematography"></a>
+## 02 / FRAME & FILM &mdash; CINEMATOGRAPHY
 
-<hr>
-
-## 02 / MOVING IMAGES & CINEMATOGRAPHY
-
-> Visual motion, filmic composition, color grading, and editorial storytelling.
+> Visual motion, filmic composition, lighting, and editorial video storytelling.
 
 <br>
 
+<!-- FEATURED MAIN FILM -->
+<a href="https://github.com/yaas-3r">
+  <img src="assets/cinematography/frame-01-feature.svg" alt="Frame 01 Featured Film" width="100%">
+</a>
+
+<br><br>
+
+<!-- SUPPORTING FILM STRIP (3 COLUMNS) -->
 <table>
   <tr>
-    <td width="50%" valign="top" align="center">
+    <td width="33%" valign="top" align="center">
       <a href="https://github.com/yaas-3r">
-        <img src="assets/cinematography/frame-01-poster.svg" alt="Atmospheric Landscapes" width="100%">
+        <img src="assets/cinematography/frame-02-poster.svg" alt="Frame 02" width="100%">
       </a>
       <br><br>
-      <h4>FRAME 01 — ATMOSPHERIC LANDSCAPES</h4>
-      <p><em>Director of Photography & Editor</em></p>
       <p><a href="https://github.com/yaas-3r"><b>Watch Full Film &rarr;</b></a></p>
     </td>
-    <td width="50%" valign="top" align="center">
+    <td width="33%" valign="top" align="center">
       <a href="https://github.com/yaas-3r">
-        <img src="assets/cinematography/frame-02-poster.svg" alt="Urban Motion" width="100%">
+        <img src="assets/cinematography/frame-03-poster.svg" alt="Frame 03" width="100%">
       </a>
       <br><br>
-      <h4>FRAME 02 — URBAN MOTION</h4>
-      <p><em>Cinematographer & Colorist</em></p>
       <p><a href="https://github.com/yaas-3r"><b>Watch Full Film &rarr;</b></a></p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
+    <td width="33%" valign="top" align="center">
       <a href="https://github.com/yaas-3r">
-        <img src="assets/cinematography/frame-03-poster.svg" alt="Rider Chronicles" width="100%">
+        <img src="assets/cinematography/frame-04-poster.svg" alt="Frame 04" width="100%">
       </a>
       <br><br>
-      <h4>FRAME 03 — RIDER CHRONICLES</h4>
-      <p><em>Director & Editor</em></p>
-      <p><a href="https://github.com/yaas-3r"><b>Watch Full Film &rarr;</b></a></p>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/yaas-3r">
-        <img src="assets/cinematography/frame-04-poster.svg" alt="Short Experimental" width="100%">
-      </a>
-      <br><br>
-      <h4>FRAME 04 — SHORT EXPERIMENTAL</h4>
-      <p><em>Editing & Sound Design</em></p>
       <p><a href="https://github.com/yaas-3r"><b>Watch Full Film &rarr;</b></a></p>
     </td>
   </tr>
 </table>
 
-<hr>
+<br><hr><br>
 
-## 03 / CONNECT
+<a id="03--about"></a>
+## 03 / ABOUT
+
+<p>I am <strong>Yaasir Mohammad</strong>, a software engineer and cinematographer based in Kenya.</p>
+<p>My work bridges technical software engineering—backend systems, mobile architecture, and AI integration—with visual storytelling through filmmaking, color grading, and video editing.</p>
+
+<br><hr><br>
+
+<a id="04--connect"></a>
+## 04 / CONNECT
 
 <br>
 
@@ -126,8 +109,6 @@
   <p><em>"Better systems. Bigger adventures."</em></p>
   <br>
   <p>
-    <a href="https://github.com/yaas-3r"><b>GitHub</b></a> &nbsp;&bull;&nbsp;
-    <a href="https://linkedin.com"><b>LinkedIn</b></a> &nbsp;&bull;&nbsp;
-    <a href="mailto:contact@yaasir.dev"><b>Email</b></a>
+    <a href="https://github.com/yaas-3r"><b>GitHub Profile</b></a>
   </p>
 </div>

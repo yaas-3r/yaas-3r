@@ -1,7 +1,30 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="100%">
-  <rect width="800" height="450" fill="#111315" rx="8"/>
-  <rect x="2" y="2" width="796" height="446" fill="none" stroke="#FF6B00" stroke-width="1" opacity="0.3" rx="7"/>
-  <text x="50%" y="42%" dominant-baseline="middle" text-anchor="middle" fill="#F1F3F4" font-family="system-ui, sans-serif" font-size="28" font-weight="700" letter-spacing="4">RIDERA</text>
-  <text x="50%" y="56%" dominant-baseline="middle" text-anchor="middle" fill="#FF6B00" font-family="system-ui, sans-serif" font-size="14" letter-spacing="2">MOTORCYCLE SOCIAL & RIDE DISCOVERY</text>
-  <line x1="300" y1="300" x2="500" y2="300" stroke="#92999F" stroke-width="1" opacity="0.4"/>
+  <rect width="800" height="450" fill="#0B0C0E" rx="8"/>
+  <rect x="1" y="1" width="798" height="448" fill="none" stroke="#FF6B00" stroke-width="1" opacity="0.4" rx="7"/>
+
+  <!-- Grid Map Simulation Background -->
+  <g stroke="#92999F" stroke-width="0.5" opacity="0.12">
+    <line x1="0" y1="90" x2="800" y2="90"/>
+    <line x1="0" y1="180" x2="800" y2="180"/>
+    <line x1="0" y1="270" x2="800" y2="270"/>
+    <line x1="0" y1="360" x2="800" y2="360"/>
+    <line x1="160" y1="0" x2="160" y2="450"/>
+    <line x1="320" y1="0" x2="320" y2="450"/>
+    <line x1="480" y1="0" x2="480" y2="450"/>
+    <line x1="640" y1="0" x2="640" y2="450"/>
+  </g>
+
+  <!-- Simulated Route Vector -->
+  <path d="M 120 320 Q 280 140, 440 240 T 680 120" fill="none" stroke="#FF6B00" stroke-width="3" stroke-dasharray="8 4"/>
+  <circle cx="120" cy="320" r="6" fill="#F1F3F4"/>
+  <circle cx="680" cy="120" r="8" fill="#FF6B00"/>
+
+  <!-- Telemetry Overlay UI -->
+  <rect x="40" y="40" width="220" height="90" fill="#111315" rx="6" stroke="#92999F" stroke-width="0.5" opacity="0.9"/>
+  <text x="60" y="70" fill="#FF6B00" font-family="monospace" font-size="11" font-weight="700">RIDERA // TELEMETRY</text>
+  <text x="60" y="92" fill="#F1F3F4" font-family="system-ui" font-size="13" font-weight="600">ROUTE DISCOVERY V2</text>
+  <text x="60" y="112" fill="#92999F" font-family="monospace" font-size="10">STATUS: ACTIVE DEV</text>
+
+  <text x="50%" y="85%" dominant-baseline="middle" text-anchor="middle" fill="#F1F3F4" font-family="system-ui, sans-serif" font-size="20" font-weight="700" letter-spacing="4">RIDERA PLATFORM</text>
+  <text x="50%" y="92%" dominant-baseline="middle" text-anchor="middle" fill="#92999F" font-family="monospace" font-size="11" letter-spacing="2">CONCEPT ARTWORK &bull; MOTORCYCLE SOCIAL NETWORK</text>
 </svg>

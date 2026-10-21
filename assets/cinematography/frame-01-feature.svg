@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" width="100%">
+  <rect width="1200" height="500" fill="#050506" rx="8"/>
+  <circle cx="600" cy="250" r="200" fill="#FF6B00" opacity="0.08"/>
+  
+  <!-- Aspect Ratio Crosshairs -->
+  <path d="M 40 40 L 80 40 M 40 40 L 40 80" stroke="#FF6B00" stroke-width="1.5" fill="none"/>
+  <path d="M 1160 40 L 1120 40 M 1160 40 L 1160 80" stroke="#FF6B00" stroke-width="1.5" fill="none"/>
+  
+  <text x="60" y="380" fill="#F1F3F4" font-family="'Georgia', serif" font-size="32" letter-spacing="4">FRAME 01 &mdash; SILENT HORIZON</text>
+  <text x="60" y="415" fill="#FF6B00" font-family="system-ui" font-size="13" font-weight="700" letter-spacing="3">FEATURED FILM &bull; DIRECTOR OF PHOTOGRAPHY &amp; EDITOR</text>
+  <text x="60" y="445" fill="#92999F" font-family="system-ui" font-size="12">Atmospheric landscape motion study captured in high contrast 2.39:1 anamorphic format.</text>
+</svg>
