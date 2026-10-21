@@ -1,5 +1,5 @@
 <!-- ========================================== -->
-<!-- SECTION 1: ANIMATED HERO & CYBER CONSOLE   -->
+<!-- SECTION 1: ANIMATED HERO & HIGH-CONTRAST HUD -->
 <!-- ========================================== -->
 
 <p align="center">
@@ -14,9 +14,13 @@
 
 </div>
 
-<!-- CYBER TELEMETRY HUD BARNER -->
+<!-- SEPARATED HIGH-CONTRAST HUD PILLS -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:08090A,50:111315,100:08090A&height=40&text=%5BLOC%5D%20%2F%2F%20NAIROBI%2C%20KE%20%20%E2%80%A2%20%20%5BSYS%5D%20%2F%2F%20BACKEND%20%E2%80%A2%20MOBILE%20%E2%80%A2%20AI%20%20%E2%80%A2%20%20%5BDEV%5D%20%2F%2F%20RIDERA%20PLATFORM&fontSize=13&fontColor=FF6B00&stroke=FF6B00&strokeWidth=1" width="100%" alt="Telemetry HUD Console" />
+  <img src="https://img.shields.io/badge/LOC-Nairobi%2C%20KE-111315?style=flat-square&labelColor=1A1D20&color=F1F3F4" alt="Location"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SYS-Backend%20%7C%20Mobile%20%7C%20AI-111315?style=flat-square&labelColor=1A1D20&color=F1F3F4" alt="Systems"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/DEV-Ridera%20Platform-111315?style=flat-square&labelColor=1A1D20&color=F1F3F4" alt="Building"/>
 </p>
 
 <br>
