@@ -23,22 +23,20 @@
 <br>
 
 <!-- ========================================== -->
-<!-- SECTION 2: LIVE PROJECTS & REPO ACTIVITY  -->
+<!-- SECTION 2: CORE SYSTEMS & LIVE ACTIVITY    -->
 <!-- ========================================== -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B00,100:111315&height=3&section=header" width="100%" alt=""/>
 
-### 01 / CORE SYSTEMS & LIVE ACTIVITY
+### 01 / CORE SYSTEMS & LIVE METRICS
 
 > Software engineer and cinematographer based in Kenya. Building practical backend infrastructure, mobile applications, and applied AI integrations.
 
 <br>
 
-<!-- RIDERA LIVE REPOSITORY CARD -->
+<!-- LIVE ACCOUNT COMMIT & ACTIVITY STATS -->
 <div align="center">
-  <a href="https://github.com/yaas-3r/ridera">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yaas-3r&repo=ridera&theme=dark&bg_color=08090A&title_color=FF6B00&text_color=F1F3F4&icon_color=FF6B00&border_color=FF6B00&show_owner=true" width="100%" max-width="600" alt="Ridera Live Repository Stats"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=yaas-3r&show_icons=true&theme=dark&bg_color=08090A&title_color=FF6B00&text_color=F1F3F4&icon_color=FF6B00&border_color=FF6B00&hide_border=false&count_private=true" width="100%" max-width="500" alt="GitHub Stats"/>
 </div>
 
 <br>
@@ -49,7 +47,7 @@
       <h3>⚡ RIDERA PLATFORM</h3>
       <p><strong>Motorcycle Social & Ride-Discovery Platform</strong></p>
       <p>A specialized digital system connecting rider communities, enabling route discovery, journey sharing, and real-time group ride navigation.</p>
-      <p><code>STATUS: ACTIVE DEVELOPMENT</code> &bull; <code>LIVE COMMITS CONNECTED</code></p>
+      <p><code>STATUS: ACTIVE DEVELOPMENT</code> &bull; <code>PRIMARY PROJECT</code></p>
       <br/>
       <p>
         <img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,postgres,docker&theme=dark" height="28" alt="Ridera Tech Stack"/>
@@ -61,9 +59,9 @@
 
 <br>
 
-<!-- RECENT COMMIT ACTIVITY STREAM -->
+<!-- LIVE ACTIVITY GRAPH -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yaas-3r&repo=ridera&theme=react-dark&bg_color=08090A&color=FF6B00&line=FF6B00&point=F1F3F4&area=true&hide_border=false" width="100%" alt="Ridera Commit Activity"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yaas-3r&theme=react-dark&bg_color=08090A&color=FF6B00&line=FF6B00&point=F1F3F4&area=true&hide_border=false" width="100%" alt="Commit Activity Graph"/>
 </div>
 
 <br>
