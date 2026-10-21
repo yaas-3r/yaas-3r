@@ -1,5 +1,5 @@
 <!-- ========================================== -->
-<!-- SECTION 1: ANIMATED HERO & CONTRAST HUD    -->
+<!-- SECTION 1: ANIMATED HERO & CYBER HUD HUD   -->
 <!-- ========================================== -->
 
 <p align="center">
@@ -14,13 +14,13 @@
 
 </div>
 
-<!-- TYPOGRAPHIC CONTRAST HUD (SLATE LABEL + AMBER CODE VALUE) -->
+<!-- FUTURISTIC ANAMORPHIC HUD LINE -->
 <p align="center">
-  <strong>LOCATION:</strong> <code>Nairobi, Kenya</code>
+  <code>[LOC] // NAIROBI, KE</code>
   &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-  <strong>FOCUS:</strong> <code>Backend &bull; Mobile &bull; AI</code>
+  <code>[SYS] // BACKEND &bull; MOBILE &bull; AI</code>
   &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-  <strong>BUILDING:</strong> <code>Ridera Platform</code>
+  <code>[DEV] // RIDERA PLATFORM</code>
 </p>
 
 <br>
