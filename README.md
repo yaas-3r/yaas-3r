@@ -40,12 +40,18 @@
 <!-- PROJECT 01: RIDERA PLATFORM -->
 <table width="100%">
   <tr>
-    <td style="padding: 20px; background-color: #0B0C0E; border-left: 4px solid #FF6B00;">
+    <td style="padding: 24px; background-color: #0B0C0E; border-left: 4px solid #FF6B00;">
       <p align="right" style="margin: 0;"><code>[ PRJ // 001 ]</code></p>
       <h3 style="margin-top: 0; color: #F1F3F4; letter-spacing: 1px;">RIDERA PLATFORM</h3>
-      <p style="color: #FF6B00; font-family: monospace; font-size: 13px; margin-bottom: 12px;"><b>MOTORCYCLE SOCIAL &amp; RIDE-DISCOVERY INFRASTRUCTURE</b></p>
-      <p style="color: #A0A5AA; line-height: 1.6;">
-        A specialized digital platform built for motorcycle communities, enabling high-precision route discovery, telemetry tracking, journey logs, and real-time synchronized group navigation.
+      <p style="color: #FF6B00; font-family: monospace; font-size: 13px; margin-bottom: 14px;"><b>MOTORCYCLE SOCIAL &amp; RIDE-DISCOVERY NETWORK</b></p>
+      
+      <!-- FULL-WIDTH COVER IMAGE PREVIEW -->
+      <div align="center" style="margin-bottom: 20px;">
+        <img src="assets/ridera-preview.png" alt="Ridera System Preview" width="100%" style="border-radius: 6px; border: 1px solid #1A1D20; object-fit: cover; max-height: 380px; display: block;" />
+      </div>
+
+      <p style="color: #A0A5AA; line-height: 1.6; margin-bottom: 16px;">
+        A high-performance digital ecosystem designed for motorcycle enthusiasts and riding communities. Ridera bridges live telemetry with social networking—enabling dynamic route mapping, real-time group ride synchronization, journey logging, and community discovery through an intuitive mobile interface.
       </p>
       <p style="margin-top: 16px; margin-bottom: 16px;">
         <img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,postgres,docker&theme=dark" height="32" alt="Ridera Tech Stack"/>
@@ -64,7 +70,7 @@
 <!-- PROJECT 02: APPLIED AI PIPELINES -->
 <table width="100%">
   <tr>
-    <td style="padding: 20px; background-color: #0B0C0E; border-left: 4px solid #2A2D32;">
+    <td style="padding: 24px; background-color: #0B0C0E; border-left: 4px solid #2A2D32;">
       <p align="right" style="margin: 0;"><code>[ PRJ // 002 ]</code></p>
       <h3 style="margin-top: 0; color: #F1F3F4; letter-spacing: 1px;">APPLIED AI PIPELINES</h3>
       <p style="color: #8A9099; font-family: monospace; font-size: 13px; margin-bottom: 12px;"><b>BACKEND INTELLIGENCE &amp; MODEL ORCHESTRATION</b></p>
