@@ -76,9 +76,9 @@
     <td width="65%" valign="top" style="padding-left: 16px;">
       <p align="right"><code>[ PRJ // 002 ]</code></p>
       <h3 style="margin-top: 0;">CINEVERSE</h3>
-      <p><b>CINEMATIC SOCIAL PLATFORM &amp; CREATIVE MARKETPLACE</b></p>
+      <p><b>CINEMATOGRAPHY NETWORK &amp; CREATIVE COLLABORATION PLATFORM</b></p>
       <p>
-        CineVerse is an ecosystem built for filmmakers, cinematographers, and visual storytellers. Combining a high-bitrate video discovery feed, interactive Shot Atlas mapping, Film DNA production metadata breakdowns, and a peer-to-peer creative marketplace for crew hiring, briefs, and travel documentaries.
+        CineVerse is an ecosystem engineered for filmmakers, documentarians, and visual storytellers. The platform combines high-bitrate video discovery, interactive Shot Atlas location mapping, Film DNA production breakdowns, and a global collaboration network for crew matching, open production briefs, and travel film series.
       </p>
       <br>
       <p>
