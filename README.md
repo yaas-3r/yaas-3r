@@ -37,35 +37,52 @@
 
 <br>
 
-### RIDERA PLATFORM
-`[ PRJ // 001 ]` &bull; **MOTORCYCLE TELEMETRY & SOCIAL INFRASTRUCTURE**
-
-<p align="center">
-  <img src="assets/ridera-preview2.png" alt="Ridera System Preview" width="100%" height="240" style="object-fit: cover; border-radius: 6px; border: 1px solid #1F2226; display: block;" />
-</p>
-
-Ridera is a full-stack motorcycle telemetry and social infrastructure platform built to bridge real-time rider metrics with community ride-discovery. Engineered with high-concurrency backend services, the platform powers live GPS trip tracking, group route synchronization, dynamic waypoint discovery, and community engagement through a responsive mobile architecture.
+<!-- PROJECT 01: RIDERA PLATFORM (SIDE-BY-SIDE CARD) -->
+<table width="100%">
+  <tr>
+    <td width="35%" valign="top" align="center">
+      <img src="assets/ridera-preview2.png" alt="Ridera System Preview" width="100%" />
+    </td>
+    <td width="65%" valign="top" style="padding-left: 15px;">
+      <p align="right"><code>[ PRJ // 001 ]</code></p>
+      <h3 style="margin-top: 0;">RIDERA PLATFORM</h3>
+      <p><b>MOTORCYCLE TELEMETRY &amp; SOCIAL INFRASTRUCTURE</b></p>
+      <p>
+        Ridera is a full-stack motorcycle telemetry and social infrastructure platform built to bridge real-time rider metrics with community ride-discovery. Engineered with high-concurrency backend services, the platform powers live GPS trip tracking, group route synchronization, dynamic waypoint discovery, and community engagement through a responsive mobile architecture.
+      </p>
+      <br>
+      <p>
+        <img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,postgres,docker&theme=dark" height="28" alt="Ridera Tech Stack"/>
+      </p>
+      <p>
+        <code>STATUS: ACTIVE DEVELOPMENT</code> &bull; [**VIEW REPOSITORY &rarr;**](https://github.com/yaas-3r/ridera)
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,postgres,docker&theme=dark" height="32" alt="Ridera Tech Stack"/>
-
-`STATUS: ACTIVE DEVELOPMENT` &bull; `PRIMARY SYSTEM` &bull; [**VIEW REPOSITORY &rarr;**](https://github.com/yaas-3r/ridera)
-
----
-
-<br>
-
-### APPLIED AI PIPELINES
-`[ PRJ // 002 ]` &bull; **BACKEND INTELLIGENCE & MODEL ORCHESTRATION**
-
-Experimental micro-architecture designed for orchestrating local/edge models, managing vector caches, and integrating context-aware LLM pipelines into production backend services.
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=py,fastapi,docker,redis,git&theme=dark" height="32" alt="AI Pipelines Tech Stack"/>
-
-`STATUS: SYSTEM EXPLORATION` &bull; `R&D MODULE`
+<!-- PROJECT 02: APPLIED AI PIPELINES -->
+<table width="100%">
+  <tr>
+    <td width="100%" valign="top">
+      <p align="right"><code>[ PRJ // 002 ]</code></p>
+      <h3 style="margin-top: 0;">APPLIED AI PIPELINES</h3>
+      <p><b>BACKEND INTELLIGENCE &amp; MODEL ORCHESTRATION</b></p>
+      <p>
+        Experimental micro-architecture designed for orchestrating local/edge models, managing vector caches, and integrating context-aware LLM pipelines into production backend services.
+      </p>
+      <br>
+      <p>
+        <img src="https://skillicons.dev/icons?i=py,fastapi,docker,redis,git&theme=dark" height="28" alt="AI Pipelines Tech Stack"/>
+      </p>
+      <p>
+        <code>STATUS: SYSTEM EXPLORATION</code> &bull; <code>R&amp;D MODULE</code>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
