@@ -97,7 +97,7 @@
 
 ### 02 / THE DUAL CRAFT & PASSIONS
 
-> Driven by two parallel disciplines: capturing the raw atmosphere of the real world through visual storytelling, and constructing high-throughput digital systems behind the screen.
+> Parallel focus across two technical domains: physical atmosphere captured through visual narrative, and deterministic logic constructed through high-concurrency digital architecture.
 
 <br>
 
@@ -106,8 +106,8 @@
   <img src="assets/cinematography-hero.png" alt="Cinematography Craft" width="100%" />
 </p>
 
-#### 🎥 CINEMATOGRAPHY & VISUAL STORYTELLING
-Every frame tells a story. Driven by a deep passion for cinema, documentarian exploration, and visual narrative, I approach the camera as an instrument of atmosphere and human perspective. Whether documenting travel journeys across East Africa or crafting deliberate compositions, my work focuses on light, emotion, and authentic visual rhythm.
+#### CINEMATOGRAPHY & VISUAL STORYTELLING
+Visual craft centered on light, composition, and physical narrative. Treating the camera as a precise instrument for documenting environments, human rhythm, and visual tension—from raw East African landscapes to structured cinematic sequences.
 
 <p>
   <code>MEDIUM: DIGITAL CINEMA</code> &bull; 
@@ -122,8 +122,8 @@ Every frame tells a story. Driven by a deep passion for cinema, documentarian ex
   <img src="assets/architecture-hero.png" alt="System Architecture Craft" width="100%" />
 </p>
 
-#### ⚡ SOFTWARE ENGINEERING & SYSTEM ARCHITECTURE
-Behind every great user experience is a resilient backend engine. I am passionate about building scalable microservices, low-latency APIs, spatial indexing pipelines, and real-time streaming architectures. Software engineering is my creative studio for logic—where complex problems are structured into reliable, high-performance digital infrastructure.
+#### SOFTWARE ENGINEERING & SYSTEM ARCHITECTURE
+Engineered around fault tolerance, low latency, and structural clarity. Focus on designing scalable microservice topologies, real-time telemetry processing pipelines, spatial indexing algorithms, and resilient backend systems built to sustain high throughput under load.
 
 <p>
   <code>DISCIPLINE: FULL-STACK &amp; BACKEND SYSTEMS</code> &bull; 
