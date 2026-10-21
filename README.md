@@ -1,5 +1,5 @@
 <!-- ========================================== -->
-<!-- SECTION 1: ANIMATED HERO & CYBER HUD HUD   -->
+<!-- SECTION 1: ANIMATED HERO & CYBER CONSOLE   -->
 <!-- ========================================== -->
 
 <p align="center">
@@ -14,13 +14,9 @@
 
 </div>
 
-<!-- FUTURISTIC ANAMORPHIC HUD LINE -->
+<!-- CYBER TELEMETRY HUD BARNER -->
 <p align="center">
-  <code>[LOC] // NAIROBI, KE</code>
-  &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-  <code>[SYS] // BACKEND &bull; MOBILE &bull; AI</code>
-  &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-  <code>[DEV] // RIDERA PLATFORM</code>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:08090A,50:111315,100:08090A&height=40&text=%5BLOC%5D%20%2F%2F%20NAIROBI%2C%20KE%20%20%E2%80%A2%20%20%5BSYS%5D%20%2F%2F%20BACKEND%20%E2%80%A2%20MOBILE%20%E2%80%A2%20AI%20%20%E2%80%A2%20%20%5BDEV%5D%20%2F%2F%20RIDERA%20PLATFORM&fontSize=13&fontColor=FF6B00&stroke=FF6B00&strokeWidth=1" width="100%" alt="Telemetry HUD Console" />
 </p>
 
 <br>
