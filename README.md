@@ -1,17 +1,15 @@
 <div align="center">
 
-  <!-- HERO ANAMORPHIC ARTWORK -->
+  <!-- ANIMATED OBSIDIAN MOTION HERO -->
   <a href="https://github.com/yaas-3r">
-    <img src="assets/hero-orbit.svg" alt="Yaasir Mohammad — Frame / Function" width="100%">
+    <img src="assets/hero-orbit.svg" alt="Obsidian Motion — Yaasir Mohammad" width="100%">
   </a>
 
   <br><br>
 
-  <!-- DESIGNED NAVIGATION BAR -->
-  <img src="assets/nav-bar.svg" alt="Navigation" width="100%" usemap="#navmap">
-
-  <p>
-    <a href="#01--engineering--function"><b>[ 01. ENGINEERING ]</b></a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <!-- NAVIGATION ROW -->
+  <p align="center">
+    <a href="#01--engineering--systems"><b>[ 01. ENGINEERING ]</b></a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
     <a href="#02--frame--film--cinematography"><b>[ 02. CINEMATOGRAPHY ]</b></a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
     <a href="#03--about"><b>[ 03. ABOUT ]</b></a> &nbsp;&nbsp;&bull;&nbsp;&nbsp;
     <a href="#04--connect"><b>[ 04. CONNECT ]</b></a>
@@ -21,27 +19,27 @@
 
 <br><hr><br>
 
-<a id="01--engineering--function"></a>
-## 01 / ENGINEERING & FUNCTION
+<a id="01--engineering--systems"></a>
+## 01 / ENGINEERING &amp; SYSTEMS
 
-> Developing software systems, backend infrastructure, mobile applications, and exploring practical AI integrations.
+> Building scalable digital platforms, backend infrastructure, mobile systems, and practical AI integrations.
 
 <br>
 
 <table>
   <tr>
-    <td width="42%" valign="top">
+    <td width="48%" valign="top">
       <a href="https://github.com/yaas-3r/ridera">
-        <img src="assets/engineering/ridera-preview.svg" alt="Ridera Project Concept" width="100%">
+        <img src="assets/engineering/ridera-preview.svg" alt="Ridera Platform Architecture" width="100%">
       </a>
     </td>
-    <td width="58%" valign="top">
+    <td width="52%" valign="top">
       <h3>01. RIDERA</h3>
       <p><strong>Motorcycle Social &amp; Ride-Discovery Platform</strong></p>
-      <p>A specialized digital platform connecting rider communities, enabling route discovery, journey sharing, and real-time group navigation.</p>
-      <p><em>Note: Visual preview above is conceptual architecture artwork.</em></p>
+      <p>A specialized platform for connecting rider communities, discovering routes, sharing journeys, and facilitating group ride navigation in real time.</p>
       <br>
       <p><code>TypeScript</code> &bull; <code>React Native</code> &bull; <code>Node.js</code> &bull; <code>PostgreSQL</code></p>
+      <br>
       <p><a href="https://github.com/yaas-3r/ridera"><b>Explore Repository &rarr;</b></a></p>
     </td>
   </tr>
@@ -50,20 +48,20 @@
 <br><hr><br>
 
 <a id="02--frame--film--cinematography"></a>
-## 02 / FRAME & FILM &mdash; CINEMATOGRAPHY
+## 02 / FRAME &amp; FILM &mdash; CINEMATOGRAPHY
 
-> Visual motion, filmic composition, lighting, and editorial video storytelling.
+> Visual motion, filmic composition, anamorphic lighting, color grading, and editorial video storytelling.
 
 <br>
 
-<!-- FEATURED MAIN FILM -->
+<!-- FEATURED MAIN FILM REEL -->
 <a href="https://github.com/yaas-3r">
   <img src="assets/cinematography/frame-01-feature.svg" alt="Frame 01 Featured Film" width="100%">
 </a>
 
 <br><br>
 
-<!-- SUPPORTING FILM STRIP (3 COLUMNS) -->
+<!-- 3-COLUMN FILM STRIP -->
 <table>
   <tr>
     <td width="33%" valign="top" align="center">
@@ -96,7 +94,7 @@
 ## 03 / ABOUT
 
 <p>I am <strong>Yaasir Mohammad</strong>, a software engineer and cinematographer based in Kenya.</p>
-<p>My work bridges technical software engineering—backend systems, mobile architecture, and AI integration—with visual storytelling through filmmaking, color grading, and video editing.</p>
+<p>My work combines software engineering—backend infrastructure, mobile development, and applied AI—with visual cinema, camera work, and editorial storytelling.</p>
 
 <br><hr><br>
 

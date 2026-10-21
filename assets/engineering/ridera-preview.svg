@@ -1,30 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="100%">
-  <rect width="800" height="450" fill="#0B0C0E" rx="8"/>
-  <rect x="1" y="1" width="798" height="448" fill="none" stroke="#FF6B00" stroke-width="1" opacity="0.4" rx="7"/>
+  <rect width="800" height="450" fill="#08090A" rx="8"/>
+  <rect x="1" y="1" width="798" height="448" fill="none" stroke="#FF6B00" stroke-width="1" opacity="0.5" rx="7"/>
 
-  <!-- Grid Map Simulation Background -->
-  <g stroke="#92999F" stroke-width="0.5" opacity="0.12">
-    <line x1="0" y1="90" x2="800" y2="90"/>
-    <line x1="0" y1="180" x2="800" y2="180"/>
-    <line x1="0" y1="270" x2="800" y2="270"/>
-    <line x1="0" y1="360" x2="800" y2="360"/>
-    <line x1="160" y1="0" x2="160" y2="450"/>
-    <line x1="320" y1="0" x2="320" y2="450"/>
-    <line x1="480" y1="0" x2="480" y2="450"/>
-    <line x1="640" y1="0" x2="640" y2="450"/>
-  </g>
+  <!-- Radar Grid Background -->
+  <circle cx="400" cy="225" r="180" fill="none" stroke="#FF6B00" stroke-width="0.5" opacity="0.15"/>
+  <circle cx="400" cy="225" r="120" fill="none" stroke="#92999F" stroke-width="0.5" opacity="0.15"/>
+  <line x1="200" y1="225" x2="600" y2="225" stroke="#92999F" stroke-width="0.5" opacity="0.2"/>
+  <line x1="400" y1="45" x2="400" y2="405" stroke="#92999F" stroke-width="0.5" opacity="0.2"/>
 
-  <!-- Simulated Route Vector -->
-  <path d="M 120 320 Q 280 140, 440 240 T 680 120" fill="none" stroke="#FF6B00" stroke-width="3" stroke-dasharray="8 4"/>
-  <circle cx="120" cy="320" r="6" fill="#F1F3F4"/>
-  <circle cx="680" cy="120" r="8" fill="#FF6B00"/>
+  <!-- Glowing Telemetry Path -->
+  <path d="M 220 320 Q 320 120, 480 260 T 620 140" fill="none" stroke="#FF6B00" stroke-width="3"/>
+  <circle cx="620" cy="140" r="7" fill="#FF6B00"/>
+  <circle cx="620" cy="140" r="14" fill="none" stroke="#FF6B00" stroke-width="1" opacity="0.6"/>
 
-  <!-- Telemetry Overlay UI -->
-  <rect x="40" y="40" width="220" height="90" fill="#111315" rx="6" stroke="#92999F" stroke-width="0.5" opacity="0.9"/>
-  <text x="60" y="70" fill="#FF6B00" font-family="monospace" font-size="11" font-weight="700">RIDERA // TELEMETRY</text>
-  <text x="60" y="92" fill="#F1F3F4" font-family="system-ui" font-size="13" font-weight="600">ROUTE DISCOVERY V2</text>
-  <text x="60" y="112" fill="#92999F" font-family="monospace" font-size="10">STATUS: ACTIVE DEV</text>
+  <!-- Top UI Header Bar -->
+  <rect x="30" y="30" width="740" height="40" fill="#111315" rx="4" stroke="#92999F" stroke-width="0.5" opacity="0.6"/>
+  <text x="50" y="55" fill="#FF6B00" font-family="monospace" font-size="12" font-weight="700">RIDERA // SOCIAL RIDE DISCOVERY SYSTEM</text>
+  <text x="730" y="55" text-anchor="end" fill="#F1F3F4" font-family="monospace" font-size="11">LAT: -1.28638 &bull; LON: 36.81722</text>
 
-  <text x="50%" y="85%" dominant-baseline="middle" text-anchor="middle" fill="#F1F3F4" font-family="system-ui, sans-serif" font-size="20" font-weight="700" letter-spacing="4">RIDERA PLATFORM</text>
-  <text x="50%" y="92%" dominant-baseline="middle" text-anchor="middle" fill="#92999F" font-family="monospace" font-size="11" letter-spacing="2">CONCEPT ARTWORK &bull; MOTORCYCLE SOCIAL NETWORK</text>
+  <!-- Bottom Details Overlay -->
+  <rect x="30" y="360" width="740" height="60" fill="#0E1012" rx="4" stroke="#FF6B00" stroke-width="0.5"/>
+  <text x="50" y="395" fill="#F1F3F4" font-family="system-ui" font-size="16" font-weight="700" letter-spacing="2">RIDERA PLATFORM</text>
+  <text x="730" y="395" text-anchor="end" fill="#92999F" font-family="monospace" font-size="11">TS &bull; REACT NATIVE &bull; NODE &bull; POSTGRES</text>
 </svg>
