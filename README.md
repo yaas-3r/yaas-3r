@@ -37,7 +37,7 @@
 
 <br>
 
-<!-- PROJECT 01: RIDERA PLATFORM (SIDE-BY-SIDE CARD) -->
+<!-- PROJECT 01: RIDERA PLATFORM -->
 <table width="100%">
   <tr>
     <td width="35%" valign="middle" align="center" style="padding: 0;">
@@ -63,7 +63,7 @@
 
 <br>
 
-<!-- PROJECT 02: CINEVERSE PLATFORM (SIDE-BY-SIDE CARD) -->
+<!-- PROJECT 02: CINEVERSE PLATFORM -->
 <table width="100%">
   <tr>
     <td width="35%" valign="middle" align="center" style="padding: 0;">
@@ -89,36 +89,56 @@
 
 <br>
 
-<!-- PROJECT 03: APPLIED AI PIPELINES -->
-<table width="100%">
-  <tr>
-    <td width="100%" valign="top">
-      <p align="right"><code>[ PRJ // 003 ]</code></p>
-      <h3 style="margin-top: 0;">APPLIED AI PIPELINES</h3>
-      <p><b>BACKEND INTELLIGENCE &amp; MODEL ORCHESTRATION</b></p>
-      <p>
-        Experimental micro-architecture designed for orchestrating local/edge models, managing vector caches, and integrating context-aware LLM pipelines into production backend services.
-      </p>
-      <br>
-      <p>
-        <img src="https://skillicons.dev/icons?i=py,fastapi,docker,redis,git&theme=dark" height="28" alt="AI Pipelines Tech Stack"/>
-      </p>
-      <p>
-        <code>STATUS: SYSTEM EXPLORATION</code> &bull; <code>R&amp;D MODULE</code>
-      </p>
-    </td>
-  </tr>
-</table>
+<!-- ========================================== -->
+<!-- SECTION 3: THE DUAL CRAFT & PASSIONS      -->
+<!-- ========================================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B00,100:111315&height=3&section=header" width="100%" alt=""/>
+
+### 02 / THE DUAL CRAFT & PASSIONS
+
+> Driven by two parallel disciplines: capturing the raw atmosphere of the real world through visual storytelling, and constructing high-throughput digital systems behind the screen.
+
+<br>
+
+<!-- PASSION 01: CINEMATOGRAPHY (FULL WIDTH MINIMAL HERO) -->
+<p align="center">
+  <img src="assets/cinematography-hero.png" alt="Cinematography Craft" width="100%" />
+</p>
+
+#### 🎥 CINEMATOGRAPHY & VISUAL STORYTELLING
+Every frame tells a story. Driven by a deep passion for cinema, documentarian exploration, and visual narrative, I approach the camera as an instrument of atmosphere and human perspective. Whether documenting travel journeys across East Africa or crafting deliberate compositions, my work focuses on light, emotion, and authentic visual rhythm.
+
+<p>
+  <code>MEDIUM: DIGITAL CINEMA</code> &bull; 
+  <code>FOCUS: DOCUMENTARY &bull; TRAVEL &bull; ANAMORPHIC</code> &bull; 
+  <code>ATMOSPHERE &bull; COMPOSITION &bull; COLOR SCIENCE</code>
+</p>
+
+<br>
+
+<!-- PASSION 02: SYSTEM ARCHITECTURE (FULL WIDTH HERO) -->
+<p align="center">
+  <img src="assets/architecture-hero.png" alt="System Architecture Craft" width="100%" />
+</p>
+
+#### ⚡ SOFTWARE ENGINEERING & SYSTEM ARCHITECTURE
+Behind every great user experience is a resilient backend engine. I am passionate about building scalable microservices, low-latency APIs, spatial indexing pipelines, and real-time streaming architectures. Software engineering is my creative studio for logic—where complex problems are structured into reliable, high-performance digital infrastructure.
+
+<p>
+  <code>DISCIPLINE: FULL-STACK &amp; BACKEND SYSTEMS</code> &bull; 
+  <code>FOCUS: REAL-TIME TELEMETRY &bull; SPATIAL INDEXING &bull; APPLIED AI</code>
+</p>
 
 <br>
 
 <!-- ========================================== -->
-<!-- SECTION 3: METRICS (AT THE BOTTOM)         -->
+<!-- SECTION 4: METRICS (AT THE BOTTOM)         -->
 <!-- ========================================== -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111315,100:FF6B00&height=3&section=header" width="100%" alt=""/>
 
-### 02 / ANALYTICS
+### 03 / ANALYTICS
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=yaas-3r.yaas-3r&color=FF6B00" alt="Profile Views Counter" />
