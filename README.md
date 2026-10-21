@@ -1,9 +1,9 @@
 <!-- ========================================== -->
-<!-- SECTION 1: ANIMATED WAVE HERO & TYPING     -->
+<!-- SECTION 1: ANIMATED HERO & HUD INFOGRAPHIC -->
 <!-- ========================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,40:111315,100:08090A&height=200&section=header&text=YAASIR%20MOHAMMAD&fontSize=42&fontColor=F1F3F4&fontAlignY=38&stroke=FF6B00&strokeWidth=1" width="100%" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,40:111315,100:08090A&height=180&section=header&text=YAASIR%20MOHAMMAD&fontSize=42&fontColor=F1F3F4&fontAlignY=38&stroke=FF6B00&strokeWidth=1" width="100%" alt="Header"/>
 </p>
 
 <div align="center">
@@ -14,30 +14,26 @@
 
 </div>
 
-<p align="center">
-  <code>KENYA</code> &nbsp;&bull;&nbsp; 
-  <code>SOFTWARE ENGINEERING</code> &nbsp;&bull;&nbsp; 
-  <code>CINEMATOGRAPHY</code>
-</p>
+<!-- INFOGRAPHIC TELEMETRY HUD -->
+<div align="center">
+  <img src="https://img.shields.io/badge/LOCATION-NAIROBI%2C%20KENYA-FF6B00?style=for-the-badge&labelColor=111315&logoColor=F1F3F4" alt="Location"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/FOCUS-BACKEND%20%2B%20MOBILE%20%2B%20AI-FF6B00?style=for-the-badge&labelColor=111315&logoColor=F1F3F4" alt="Focus"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/BUILDING-RIDERA%20PLATFORM-FF6B00?style=for-the-badge&labelColor=111315&logoColor=F1F3F4" alt="Building"/>
+</div>
 
 <br>
 
 <!-- ========================================== -->
-<!-- SECTION 2: CORE SYSTEMS & LIVE ACTIVITY    -->
+<!-- SECTION 2: CORE SYSTEMS & PROJECTS        -->
 <!-- ========================================== -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B00,100:111315&height=3&section=header" width="100%" alt=""/>
 
-### 01 / CORE SYSTEMS & LIVE METRICS
+### 01 / CORE SYSTEMS & PROJECTS
 
 > Software engineer and cinematographer based in Kenya. Building practical backend infrastructure, mobile applications, and applied AI integrations.
-
-<br>
-
-<!-- LIVE ACCOUNT COMMIT & ACTIVITY STATS -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yaas-3r&show_icons=true&theme=dark&bg_color=08090A&title_color=FF6B00&text_color=F1F3F4&icon_color=FF6B00&border_color=FF6B00&hide_border=false&count_private=true" width="100%" max-width="500" alt="GitHub Stats"/>
-</div>
 
 <br>
 
@@ -47,7 +43,7 @@
       <h3>⚡ RIDERA PLATFORM</h3>
       <p><strong>Motorcycle Social & Ride-Discovery Platform</strong></p>
       <p>A specialized digital system connecting rider communities, enabling route discovery, journey sharing, and real-time group ride navigation.</p>
-      <p><code>STATUS: ACTIVE DEVELOPMENT</code> &bull; <code>PRIMARY PROJECT</code></p>
+      <p><code>STATUS: ACTIVE DEVELOPMENT</code> &bull; <code>PRIMARY SYSTEM</code></p>
       <br/>
       <p>
         <img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,postgres,docker&theme=dark" height="28" alt="Ridera Tech Stack"/>
@@ -56,13 +52,6 @@
     </td>
   </tr>
 </table>
-
-<br>
-
-<!-- LIVE ACTIVITY GRAPH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yaas-3r&theme=react-dark&bg_color=08090A&color=FF6B00&line=FF6B00&point=F1F3F4&area=true&hide_border=false" width="100%" alt="Commit Activity Graph"/>
-</div>
 
 <br>
 
@@ -80,3 +69,17 @@
     </td>
   </tr>
 </table>
+
+<br>
+
+<!-- ========================================== -->
+<!-- SECTION 3: METRICS & NUMBERS (AT THE BOTTOM) -->
+<!-- ========================================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111315,100:FF6B00&height=3&section=header" width="100%" alt=""/>
+
+### 02 / ANALYTICS
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yaas-3r.yaas-3r&color=FF6B00" alt="Profile Views Counter" />
+</p>
