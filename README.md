@@ -41,7 +41,7 @@
 `[ PRJ // 001 ]` &bull; **MOTORCYCLE TELEMETRY & SOCIAL INFRASTRUCTURE**
 
 <p align="center">
-  <img src="assets/ridera-preview.png" alt="Ridera System Preview" width="100%" height="240" style="object-fit: cover; border-radius: 6px; border: 1px solid #1F2226; display: block;" />
+  <img src="assets/ridera-preview2.png" alt="Ridera System Preview" width="100%" height="240" style="object-fit: cover; border-radius: 6px; border: 1px solid #1F2226; display: block;" />
 </p>
 
 Ridera is a full-stack motorcycle telemetry and social infrastructure platform built to bridge real-time rider metrics with community ride-discovery. Engineered with high-concurrency backend services, the platform powers live GPS trip tracking, group route synchronization, dynamic waypoint discovery, and community engagement through a responsive mobile architecture.
