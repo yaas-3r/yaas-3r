@@ -40,12 +40,12 @@
 <!-- PROJECT 01: RIDERA PLATFORM (SIDE-BY-SIDE CARD) -->
 <table width="100%">
   <tr>
-    <td width="40%" valign="top" align="center" style="padding: 0;">
+    <td width="35%" valign="middle" align="center" style="padding: 0;">
       <a href="https://github.com/yaas-3r/ridera">
-        <img src="assets/ridera-preview2.png" alt="Ridera System Preview" width="100%" />
+        <img src="assets/ridera-preview4.png" alt="Ridera System Preview" width="100%" />
       </a>
     </td>
-    <td width="60%" valign="top" style="padding-left: 16px;">
+    <td width="65%" valign="top" style="padding-left: 16px;">
       <p align="right"><code>[ PRJ // 001 ]</code></p>
       <h3 style="margin-top: 0;">RIDERA PLATFORM</h3>
       <p><b>MOTORCYCLE TELEMETRY &amp; SOCIAL INFRASTRUCTURE</b></p>
