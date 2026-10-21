@@ -1,5 +1,5 @@
 <!-- ========================================== -->
-<!-- SECTION 1: ANIMATED HERO & MINIMAL HUD     -->
+<!-- SECTION 1: ANIMATED HERO & CONTRAST HUD    -->
 <!-- ========================================== -->
 
 <p align="center">
@@ -14,11 +14,13 @@
 
 </div>
 
-<!-- CLEAN MINIMALIST TEXT PILLS -->
+<!-- TYPOGRAPHIC CONTRAST HUD (SLATE LABEL + AMBER CODE VALUE) -->
 <p align="center">
-  <code>LOC: NAIROBI, KENYA</code> &nbsp;&bull;&nbsp; 
-  <code>FOCUS: BACKEND &bull; MOBILE &bull; AI</code> &nbsp;&bull;&nbsp; 
-  <code>BUILDING: RIDERA PLATFORM</code>
+  <strong>LOCATION:</strong> <code>Nairobi, Kenya</code>
+  &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <strong>FOCUS:</strong> <code>Backend &bull; Mobile &bull; AI</code>
+  &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+  <strong>BUILDING:</strong> <code>Ridera Platform</code>
 </p>
 
 <br>
