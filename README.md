@@ -40,26 +40,27 @@
 <!-- PROJECT 01: RIDERA PLATFORM -->
 <table width="100%">
   <tr>
-    <td style="padding: 24px; background-color: #0B0C0E; border-left: 4px solid #FF6B00;">
-      <p align="right" style="margin: 0;"><code>[ PRJ // 001 ]</code></p>
-      <h3 style="margin-top: 0; color: #F1F3F4; letter-spacing: 1px;">RIDERA PLATFORM</h3>
-      <p style="color: #FF6B00; font-family: monospace; font-size: 13px; margin-bottom: 14px;"><b>MOTORCYCLE SOCIAL &amp; RIDE-DISCOVERY NETWORK</b></p>
+    <td width="100%" valign="top">
+      <p align="right"><code>[ PRJ // 001 ]</code></p>
+      <h3>RIDERA PLATFORM</h3>
+      <p><b>MOTORCYCLE SOCIAL &amp; RIDE-DISCOVERY NETWORK</b></p>
       
       <!-- FULL-WIDTH COVER IMAGE PREVIEW -->
-      <div align="center" style="margin-bottom: 20px;">
-        <img src="assets/ridera-preview.png" alt="Ridera System Preview" width="100%" style="border-radius: 6px; border: 1px solid #1A1D20; object-fit: cover; max-height: 380px; display: block;" />
-      </div>
+      <p align="center">
+        <img src="assets/ridera-preview.png" alt="Ridera System Preview" width="100%" />
+      </p>
 
-      <p style="color: #A0A5AA; line-height: 1.6; margin-bottom: 16px;">
+      <p>
         A high-performance digital ecosystem designed for motorcycle enthusiasts and riding communities. Ridera bridges live telemetry with social networking—enabling dynamic route mapping, real-time group ride synchronization, journey logging, and community discovery through an intuitive mobile interface.
       </p>
-      <p style="margin-top: 16px; margin-bottom: 16px;">
+      <br>
+      <p>
         <img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,postgres,docker&theme=dark" height="32" alt="Ridera Tech Stack"/>
       </p>
-      <p style="margin-bottom: 0;">
+      <p>
         <code>STATUS: ACTIVE DEVELOPMENT</code> &bull; <code>PRIMARY SYSTEM</code>
         &nbsp;&bull;&nbsp;
-        <a href="https://github.com/yaas-3r/ridera" style="color: #FF6B00;"><b>VIEW REPOSITORY &rarr;</b></a>
+        <a href="https://github.com/yaas-3r/ridera"><b>VIEW REPOSITORY &rarr;</b></a>
       </p>
     </td>
   </tr>
@@ -70,17 +71,18 @@
 <!-- PROJECT 02: APPLIED AI PIPELINES -->
 <table width="100%">
   <tr>
-    <td style="padding: 24px; background-color: #0B0C0E; border-left: 4px solid #2A2D32;">
-      <p align="right" style="margin: 0;"><code>[ PRJ // 002 ]</code></p>
-      <h3 style="margin-top: 0; color: #F1F3F4; letter-spacing: 1px;">APPLIED AI PIPELINES</h3>
-      <p style="color: #8A9099; font-family: monospace; font-size: 13px; margin-bottom: 12px;"><b>BACKEND INTELLIGENCE &amp; MODEL ORCHESTRATION</b></p>
-      <p style="color: #A0A5AA; line-height: 1.6;">
+    <td width="100%" valign="top">
+      <p align="right"><code>[ PRJ // 002 ]</code></p>
+      <h3>APPLIED AI PIPELINES</h3>
+      <p><b>BACKEND INTELLIGENCE &amp; MODEL ORCHESTRATION</b></p>
+      <p>
         Experimental micro-architecture designed for orchestrating local/edge models, managing vector caches, and integrating context-aware LLM pipelines into production backend services.
       </p>
-      <p style="margin-top: 16px; margin-bottom: 16px;">
+      <br>
+      <p>
         <img src="https://skillicons.dev/icons?i=py,fastapi,docker,redis,git&theme=dark" height="32" alt="AI Pipelines Tech Stack"/>
       </p>
-      <p style="margin-bottom: 0;">
+      <p>
         <code>STATUS: SYSTEM EXPLORATION</code> &bull; <code>R&amp;D MODULE</code>
       </p>
     </td>
