@@ -1,9 +1,9 @@
 <!-- ========================================== -->
-<!-- SECTION 1: DYNAMIC HERO & ROTATING TEXT    -->
+<!-- SECTION 1: ANIMATED WAVE HERO & TYPING     -->
 <!-- ========================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF6B00,40:111315,100:08090A&height=180&section=header&text=YAASIR%20MOHAMMAD&fontSize=42&fontColor=F1F3F4&fontAlignY=38&stroke=FF6B00&strokeWidth=1" width="100%" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,40:111315,100:08090A&height=200&section=header&text=YAASIR%20MOHAMMAD&fontSize=42&fontColor=F1F3F4&fontAlignY=38&stroke=FF6B00&strokeWidth=1" width="100%" alt="Header"/>
 </p>
 
 <div align="center">
@@ -23,14 +23,23 @@
 <br>
 
 <!-- ========================================== -->
-<!-- SECTION 2: EDITORIAL PROJECT SHOWCASE       -->
+<!-- SECTION 2: LIVE PROJECTS & REPO ACTIVITY  -->
 <!-- ========================================== -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B00,100:111315&height=3&section=header" width="100%" alt=""/>
 
-### 01 / CORE FOCUS & SYSTEMS
+### 01 / CORE SYSTEMS & LIVE ACTIVITY
 
-> Software engineer and cinematographer based in Kenya. Building practical backend infrastructure, mobile applications, applied AI workflows, and visual motion.
+> Software engineer and cinematographer based in Kenya. Building practical backend infrastructure, mobile applications, and applied AI integrations.
+
+<br>
+
+<!-- RIDERA LIVE REPOSITORY CARD -->
+<div align="center">
+  <a href="https://github.com/yaas-3r/ridera">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yaas-3r&repo=ridera&theme=dark&bg_color=08090A&title_color=FF6B00&text_color=F1F3F4&icon_color=FF6B00&border_color=FF6B00&show_owner=true" width="100%" max-width="600" alt="Ridera Live Repository Stats"/>
+  </a>
+</div>
 
 <br>
 
@@ -40,15 +49,22 @@
       <h3>⚡ RIDERA PLATFORM</h3>
       <p><strong>Motorcycle Social & Ride-Discovery Platform</strong></p>
       <p>A specialized digital system connecting rider communities, enabling route discovery, journey sharing, and real-time group ride navigation.</p>
-      <p><code>STATUS: ACTIVE DEVELOPMENT</code> &bull; <code>PRIMARY PROJECT</code></p>
+      <p><code>STATUS: ACTIVE DEVELOPMENT</code> &bull; <code>LIVE COMMITS CONNECTED</code></p>
       <br/>
       <p>
         <img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,postgres,docker&theme=dark" height="28" alt="Ridera Tech Stack"/>
       </p>
-      <p><a href="https://github.com/yaas-3r/ridera"><b>View Repository &rarr;</b></a></p>
+      <p><a href="https://github.com/yaas-3r/ridera"><b>Explore Repository &rarr;</b></a></p>
     </td>
   </tr>
 </table>
+
+<br>
+
+<!-- RECENT COMMIT ACTIVITY STREAM -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yaas-3r&repo=ridera&theme=react-dark&bg_color=08090A&color=FF6B00&line=FF6B00&point=F1F3F4&area=true&hide_border=false" width="100%" alt="Ridera Commit Activity"/>
+</div>
 
 <br>
 
@@ -62,26 +78,6 @@
       <br/>
       <p>
         <img src="https://skillicons.dev/icons?i=py,fastapi,docker,redis,git&theme=dark" height="28" alt="AI Pipeline Tech Stack"/>
-      </p>
-      <p><a href="https://github.com/yaas-3r"><b>View Exploration &rarr;</b></a></p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<table width="100%">
-  <tr>
-    <td width="100%" valign="top">
-      <h3>🎬 FRAME / FILM — CINEMATOGRAPHY</h3>
-      <p><strong>Visual Motion & Editorial Storytelling</strong></p>
-      <p>Filmmaking, lighting composition, color grading, and video editing. Focused on atmospheric motion and high-contrast editorial visuals.</p>
-      <br/>
-      <p>
-        &bull; <strong>Frame 01 — Silent Horizon</strong> &mdash; <em>Director of Photography & Editor (2.39:1 Anamorphic)</em><br/>
-        &bull; <strong>Frame 02 — Night Ride</strong> &mdash; <em>Cinematographer & Colorist (Low-Light Motion)</em><br/>
-        &bull; <strong>Frame 03 — Coastal Drift</strong> &mdash; <em>Director & Editor (Rider Documentaries)</em><br/>
-        &bull; <strong>Frame 04 — Urban Pulse</strong> &mdash; <em>Short Experimental (Rhythmic Cutting & Sound Design)</em>
       </p>
     </td>
   </tr>
