@@ -1,5 +1,5 @@
 <!-- ========================================== -->
-<!-- SECTION 1: ANIMATED HERO & HIGH-CONTRAST HUD -->
+<!-- SECTION 1: ANIMATED HERO & ROUNDED HUD     -->
 <!-- ========================================== -->
 
 <p align="center">
@@ -14,13 +14,13 @@
 
 </div>
 
-<!-- SEPARATED HIGH-CONTRAST HUD PILLS -->
+<!-- ROUNDED PILL TELEMETRY BADGES (CHARCOAL + AMBER TINT) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/LOC-Nairobi%2C%20KE-111315?style=flat-square&labelColor=1A1D20&color=F1F3F4" alt="Location"/>
+  <img src="https://img.shields.io/badge/LOC-Nairobi%2C%20KE-1F1A17?style=for-the-badge&labelColor=111315&color=1F1A17&logoColor=FF6B00" alt="Location"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SYS-Backend%20%7C%20Mobile%20%7C%20AI-111315?style=flat-square&labelColor=1A1D20&color=F1F3F4" alt="Systems"/>
+  <img src="https://img.shields.io/badge/SYS-Backend%20%7C%20Mobile%20%7C%20AI-1F1A17?style=for-the-badge&labelColor=111315&color=1F1A17&logoColor=FF6B00" alt="Systems"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/DEV-Ridera%20Platform-111315?style=flat-square&labelColor=1A1D20&color=F1F3F4" alt="Building"/>
+  <img src="https://img.shields.io/badge/DEV-Ridera%20Platform-1F1A17?style=for-the-badge&labelColor=111315&color=1F1A17&logoColor=FF6B00" alt="Building"/>
 </p>
 
 <br>
