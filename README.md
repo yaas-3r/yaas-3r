@@ -40,10 +40,10 @@
 <!-- PROJECT 01: RIDERA PLATFORM (SIDE-BY-SIDE CARD) -->
 <table width="100%">
   <tr>
-    <td width="35%" valign="top" align="center">
-      <img src="assets/ridera-preview2.png" alt="Ridera System Preview" width="100%" />
+    <td width="38%" valign="middle" align="center">
+      <img src="assets/ridera-preview2.png" alt="Ridera System Preview" width="100%" height="260" style="object-fit: cover; border-radius: 6px; display: block;" />
     </td>
-    <td width="65%" valign="top" style="padding-left: 15px;">
+    <td width="62%" valign="top" style="padding-left: 15px;">
       <p align="right"><code>[ PRJ // 001 ]</code></p>
       <h3 style="margin-top: 0;">RIDERA PLATFORM</h3>
       <p><b>MOTORCYCLE TELEMETRY &amp; SOCIAL INFRASTRUCTURE</b></p>
@@ -55,7 +55,7 @@
         <img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,postgres,docker&theme=dark" height="28" alt="Ridera Tech Stack"/>
       </p>
       <p>
-        <code>STATUS: ACTIVE DEVELOPMENT</code> &bull; [**VIEW REPOSITORY &rarr;**](https://github.com/yaas-3r/ridera)
+        <code>STATUS: ACTIVE DEVELOPMENT</code> &bull; <a href="https://github.com/yaas-3r/ridera"><b>VIEW REPOSITORY &rarr;</b></a>
       </p>
     </td>
   </tr>
