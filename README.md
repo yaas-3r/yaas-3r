@@ -41,9 +41,7 @@
 <table width="100%">
   <tr>
     <td width="35%" valign="middle" align="center" style="padding: 0;">
-      <a href="https://github.com/yaas-3r/ridera">
-        <img src="assets/ridera-preview4.png" alt="Ridera System Preview" width="100%" />
-      </a>
+      <img src="assets/ridera-preview4.png" alt="Ridera System Preview" width="100%" />
     </td>
     <td width="65%" valign="top" style="padding-left: 16px;">
       <p align="right"><code>[ PRJ // 001 ]</code></p>
@@ -57,7 +55,7 @@
         <img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,postgres,docker&theme=dark" height="28" alt="Ridera Tech Stack"/>
       </p>
       <p>
-        <code>STATUS: ACTIVE DEVELOPMENT</code> &bull; <a href="https://github.com/yaas-3r/ridera"><b>VIEW REPOSITORY &rarr;</b></a>
+        <code>STATUS: ACTIVE DEVELOPMENT</code> &bull; <code>PRIMARY SYSTEM</code>
       </p>
     </td>
   </tr>
@@ -69,9 +67,7 @@
 <table width="100%">
   <tr>
     <td width="35%" valign="middle" align="center" style="padding: 0;">
-      <a href="https://github.com/yaas-3r/cineverse">
-        <img src="assets/cineverse-preview.png" alt="CineVerse System Preview" width="100%" />
-      </a>
+      <img src="assets/cineverse-preview.png" alt="CineVerse System Preview" width="100%" />
     </td>
     <td width="65%" valign="top" style="padding-left: 16px;">
       <p align="right"><code>[ PRJ // 002 ]</code></p>
@@ -85,7 +81,7 @@
         <img src="https://skillicons.dev/icons?i=ts,react,py,fastapi,postgres,docker&theme=dark" height="28" alt="CineVerse Tech Stack"/>
       </p>
       <p>
-        <code>STATUS: ACTIVE DEVELOPMENT</code> &bull; <a href="https://github.com/yaas-3r/cineverse"><b>EXPLORE SYSTEM &rarr;</b></a>
+        <code>STATUS: ACTIVE DEVELOPMENT</code> &bull; <code>PRIMARY SYSTEM</code>
       </p>
     </td>
   </tr>
